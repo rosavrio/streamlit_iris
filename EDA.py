@@ -9,5 +9,5 @@ def explore_data(dataset):
   return df
 def read_dataset():
    global data
-  my_dataset = './data/iris.csv'
-  data = explore_data(my_dataset)
+my_dataset = './data/iris.csv'
+data = explore_data(my_dataset)
